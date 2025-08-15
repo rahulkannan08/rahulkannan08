@@ -27,34 +27,15 @@
 
 ---
 
-<!-- GitHub Activity Graph -->
-[![Rahul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkannan08&theme=tokyo-night)](https://github.com/rahulkannan08)
+<h3 align="center">📈 My Contribution Graph</h3>
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkannan08&theme=tokyo-night)](https://github.com/rahulkannan08)
 
 ---
 
-<!-- GitHub Stats -->
+<h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkannan08&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkannan08&layout=compact&theme=tokyonight" height="180" />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkannan08&theme=tokyonight" />
-</p>
-
 ---
-
-<!-- Real-time Fun Tech Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkannan08&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkannan08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<!-- Fun Footer GIF -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" width="500" alt="Coding Fun" />
-</p>
