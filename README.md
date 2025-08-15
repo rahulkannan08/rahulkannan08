@@ -65,3 +65,9 @@
 <!-- Fun Footer GIF -->
 <p align="center">
   <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-progr
+
+
+<!-- Fun Footer GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" width="500" alt="Coding Fun" />
+</p>
