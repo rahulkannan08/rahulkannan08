@@ -28,7 +28,11 @@
 ---
 
 <h3 align="center">📈 My Contribution Graph</h3>
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkannan08&theme=tokyo-night)](https://github.com/rahulkannan08)
+<p align="center">
+  <a href="https://github.com/rahulkannan08">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkannan08&theme=tokyo-night" alt="Contribution Graph" />
+  </a>
+</p>
 
 ---
 
@@ -39,3 +43,25 @@
 </p>
 
 ---
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkannan08&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🏆 My GitHub Achievements</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulkannan08&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkannan08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<!-- Fun Footer GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-progr
