@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+  <img src="https://tenor.com/1hRO.gif" width="600" height="300" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kannan</h1>
 <h3 align="center">A passionate web developer who loves building creative and impactful projects 🚀</h3>
 
 ---
@@ -56,5 +56,5 @@
 
 <!-- Fun Footer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Fun" />
+  <img src="https://tenor.com/bkyl1.gif" width="500" alt="Coding Fun" />
 </p>
