@@ -8,7 +8,7 @@
 
 ---
 
-<!-- Social Links -->
+<!-- Social Links here-->
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-k-031627286" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
