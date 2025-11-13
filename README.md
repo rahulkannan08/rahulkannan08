@@ -22,7 +22,7 @@
 
 <h3 align="center">🚀 Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,python,git,github,figma,vscode" />
 </p>
 
 ---
