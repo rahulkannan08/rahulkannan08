@@ -10,7 +10,7 @@
 
 <!-- Social Links here-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-k-031627286" target="blank">
+  <a href="https://www.linkedin.com/in/rahul0808" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/_rahul.io" target="blank">
