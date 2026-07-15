@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate web developer who loves building creative and impactful projects 🚀</h3>
+<h3 align="center">A passionate developer who loves building creative and impactful projects 🚀</h3>
 
 ---
 
